@@ -1,1 +1,1 @@
-Config file used in this repository
+This is a sample git file used in local
