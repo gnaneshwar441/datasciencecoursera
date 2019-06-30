@@ -1,1 +1,1 @@
-This is a sample git file used in local
+This file is used in repository
