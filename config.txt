@@ -1,1 +1,1 @@
-This file is used in Local
+This file is used in remote repository
